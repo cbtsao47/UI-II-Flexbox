@@ -264,6 +264,11 @@ section.bottom-content div.facts ul{
 section.bottom-content div.facts ul li{
 	margin:10px 0;
 }
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}
 
 /* --------------------------------------------
 			Product Page Starts Here
@@ -271,3 +276,5 @@ section.bottom-content div.facts ul li{
 /* .mid-container article.design{
 	border:1px solid red;
 } */
+
+
